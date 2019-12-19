@@ -31,4 +31,4 @@ isort.o:isort.c isort.h
 .PHONY: isort clean all txtfind
 
 clean:
-	rm -f *.o *.a *.so main2 
+	rm -f *.o *.a *.so isort txtfind 
