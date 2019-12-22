@@ -28,7 +28,7 @@ else if (ans == 'b') {
  print_similar_words(str,c,word);
 }
 
-return 1;
+return 0;
 
 }
 	
